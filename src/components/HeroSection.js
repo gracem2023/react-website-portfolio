@@ -6,7 +6,7 @@ import './HeroSection.css';
 function HeroSection() {
   return (
     <div className='hero-container'>
-      <img src='/images/grace2.jpg' />
+      <img src='/grace2.jpg' />
       <h1>Grace Moussouri</h1>
       <p>UI/UX Designer</p>
       <div className='hero-btns'>

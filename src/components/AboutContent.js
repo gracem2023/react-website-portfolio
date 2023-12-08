@@ -14,7 +14,7 @@ const AboutContent = () => (
         </p>
       </div>
       <div className="image-content">
-        <img src='images/grace.jpg' alt="A description of the image" />
+        <img src='./images/grace.jpg' alt="A description of the image" />
       </div>
     </div>
   </section>
